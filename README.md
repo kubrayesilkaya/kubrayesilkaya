@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kübra Yeşilkaya</h1>
-<h3 align="center">A passionate frontend developer learner.</h3>
+<h3 align="center">A passionate junior developer.</h3>
 
 - 📝 I regularly write articles on [https://medium.com/@kubrayesilkaya.ky](https://medium.com/@kubrayesilkaya.ky)
 
