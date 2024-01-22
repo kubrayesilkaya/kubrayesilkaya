@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kübra Yeşilkaya</h1>
 <h3 align="center">I am software engineering student and a passionate junior developer.</h3>
 
-- 🔭 I’m currently working on **.NET 6 and C# programming**
+- 🔭 I’m currently working on **.NET 6, C# programming and Angular**
 
 - 📝 I regularly write articles on [https://medium.com/@kubrayesilkaya.ky](https://medium.com/@kubrayesilkaya.ky)
 
